@@ -9,9 +9,9 @@ To create a Website with Login & Registration Form using HTML, CSS, and vanilla 
 
 ![image](https://github.com/SavvyChic42/Login-Page/assets/151141927/028971be-9fea-4283-8e6b-37a49f7fc6b1)
 
-1.Create a folder. You can name this folder whatever you want, and inside this folder, create the mentioned files.
-2.Create an index.html file. The file name must be index and its extension .html
-3.Create a style.css file. The file name must be style and its extension .css
-4.Create a script.js file. The file name must be script and its extension .js
-5.Download the background image and put this image inside the project folder. This is the website background image.
+1.Create a folder. You can name this folder whatever you want, and inside this folder, create the mentioned files.<br>
+2.Create an index.html file. The file name must be index and its extension .html<br>
+3.Create a style.css file. The file name must be style and its extension .css <br>
+4.Create a script.js file. The file name must be script and its extension .js <br>
+5.Download the background image and put this image inside the project folder. This is the website background image. <br>
 Once you create these files, paste the given codes into the specified files. If you don’t want to do these then scroll down and download all the source code files of the Website with the Login & Registration Form, by clicking on the given download button.
