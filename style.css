@@ -356,3 +356,5 @@ form button:hover {
         padding: 30px 20px;
     }
 }
+
+<p id="login-error-msg">Invalid username <span id="error-msg-second-line">and/or password</span></p>
